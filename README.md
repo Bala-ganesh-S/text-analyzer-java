@@ -13,3 +13,6 @@ A simple Java-based application that analyzes text input and performs operations
 
 ## 📌 How to Run
 1. Compile the program:
+2. Run the program:
+## 👨‍💻 Author
+Balaganesh S
